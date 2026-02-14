@@ -35,7 +35,7 @@ const Hero = () => {
   const downloadResume = () => {
     
     const link = document.createElement('a')
-    link.href = 'https://drive.google.com/file/d/1EpgvsGgX_bKVlBKVe0eZwXr9F19q-cXE/view?usp=sharing' 
+    link.href = 'https://drive.google.com/file/d/1nnwnGV3VbqO9HTqE_eDLeA42YAweCHDw/view?usp=sharing' 
     document.body.appendChild(link)
     link.click()
     document.body.removeChild(link)
