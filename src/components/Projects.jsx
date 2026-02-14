@@ -59,8 +59,8 @@ const Projects = () => {
       description: 'Developed a full-stack movie booking platform with seat selection, booking management, and payment integration.',
       tech: ['React', 'Node.js', 'Express', 'MongoDB'],
       icon: <FaFilm className="text-3xl" />,
-      link: 'https://movie-booking-app.vercel.app/',
-      github: 'https://github.com/hiteshkharyal/movie-booking-app',
+      //link: 'https://movie-booking-app.vercel.app/',
+      //github: 'https://github.com/hiteshkharyal/movie-booking-app',
     },
     {
       title: 'Voice-Controlled News Web App',

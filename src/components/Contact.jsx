@@ -35,8 +35,7 @@ const Contact = () => {
 
   const downloadResume = () => {
     const link = document.createElement('a')
-    link.href = '/resume.pdf' // Update with actual resume path
-    link.download = 'Hitesh_Kumar_Resume.pdf'
+    link.href = 'https://drive.google.com/file/d/1EpgvsGgX_bKVlBKVe0eZwXr9F19q-cXE/view?usp=sharing' 
     document.body.appendChild(link)
     link.click()
     document.body.removeChild(link)
