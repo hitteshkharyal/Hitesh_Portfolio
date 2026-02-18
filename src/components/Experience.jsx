@@ -7,7 +7,7 @@ const Experience = () => {
       title: 'Power BI Intern',
       company: 'Celebal Technologies',
       period: '2025',
-      location: 'Remote',
+      location: 'Remote (Jaipur)',
       achievements: [
         'Built 5+ interactive dashboards',
         'Developed 20+ DAX measures and KPIs',
@@ -19,7 +19,7 @@ const Experience = () => {
       title: 'Python & Data Science Trainer',
       company: '9i Technologies',
       period: '2024',
-      location: 'Remote',
+      location: 'Chandigarh',
       achievements: [
         'Mentored 100+ students',
         'Designed 10+ analytics & ML projects',
@@ -30,7 +30,7 @@ const Experience = () => {
       title: 'Data Science Trainee',
       company: '9i Technologies',
       period: '2023–2024',
-      location: 'Remote',
+      location: 'Chandigarh',
       achievements: [
         'Performed EDA on 10k+ records',
         'Built ML models (75–85% accuracy)',
